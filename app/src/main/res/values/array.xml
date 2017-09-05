@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="genero">
+
+    <item>Masculino</item>
+    <item>Femenino</item>
+
+</string-array>
+
+<string-array name="Tipo">
+
+<item>Zapatilla</item>
+<item>Clasico</item>
+
+</string-array>
+
+<string-array name="marca">
+
+<item>Nike</item>
+<item>Adidas</item>
+<item>Puma</item>
+
+</string-array>
+
+</resources>
